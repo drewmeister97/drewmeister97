@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing & Project Management
 - 🌱 I’m currently learning Cloud Computing using Azure
 - 💞️ I’m looking to collaborate on idk lol
-- 📫 How to reach me : dont
+- 📫 How to reach me : with a phone
 
 <!---
 drewmeister97/drewmeister97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
