@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drewmeister97
-- 👀 I’m interested in Cloud Computing & Project Management
+- 👀 I’m interested in Cloud Computing, Cybersecurity & Project Management
 - 🌱 I’m currently learning Cloud Computing using Azure & AWS
-- 💞️ I’m looking to collaborate with likeminded people
+- 💞️ I’m looking to learn and grow more in Cloud computing.
 - 📫 How to reach me : Lure me with burgers
 
 <!---
